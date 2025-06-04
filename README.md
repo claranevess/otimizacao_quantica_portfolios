@@ -12,6 +12,18 @@
 
 ## Tecnologias utilizadas
 
+● Python 3.13.4
+
+● Jupyter Notebook 7.4.3
+
+● Qiskit SDK 2.0.2
+
+● Plotly 6.1.2
+
+● pandas 2.2.3
+
+● NumPy 2.2.6
+
 ## Como rodar
 ### Pré-requisitos
 
