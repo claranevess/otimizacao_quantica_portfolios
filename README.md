@@ -30,6 +30,7 @@
 ## Estrutura do projeto
 
 ## Metodologia
+A metodologia deste estudo consiste de uma pesquisa experimental com o objetivo de entender quais algoritmos quânticos performam melhor na resolução do problema de otimização quântica de portfólios financeiros.
 
 ## Resultados
 
