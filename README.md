@@ -2,7 +2,7 @@
 
 ## Descrição
 ### Objetivos
-● Realizar melhorias nos algoritmos quânticos desenvolvidos até o momento;
+● Realizar melhorias nos algoritmos quânticos desenvolvidos até 2023;
 
 ● Realizar novos testes em diferentes simuladores e computadores quânticos;
 
