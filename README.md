@@ -18,3 +18,5 @@
 E-mail: mcsan@cesar.school
 
 Linkedin: [Maria Clara Neves](https://www.linkedin.com/in/claranevess/)
+
+Lattes:[Maria Clara de Souza Almeida Neves](http://lattes.cnpq.br/5953688962353372)
