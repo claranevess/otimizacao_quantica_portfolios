@@ -1,7 +1,7 @@
 # Estudo do uso de Computação Quântica para otimização de portfólios financeiros
 
 ## Descrição
-### Motivação
+### Objetivos
 
 ## Tecnologias utilizadas
 
@@ -9,6 +9,8 @@
 ### Pré-requisitos
 
 ## Estrutura do projeto
+
+## Metodologia
 
 ## Resultados
 
