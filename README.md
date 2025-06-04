@@ -1,6 +1,8 @@
 # Estudo do uso de Computação Quântica para otimização de portfólios financeiros
 
 ## Descrição
+O projeto de iniciação científica Estudo do uso de Computação Quântica para otimização de portfólios financeiros explora a aplicação de algoritmos quânticos variacionais, como VQE e QAOA, para resolver problemas de alocação de ativos financeiros. Utilizando o framework Qiskit, o estudo compara o desempenho de métodos quânticos e clássicos. A implementação inclui notebooks com simulações, visualizações de circuitos e testes com dados reais do mercado financeiro brasileiro.
+
 ### Objetivos
 ● Realizar melhorias nos algoritmos quânticos desenvolvidos até 2023;
 
