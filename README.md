@@ -3,8 +3,11 @@
 ## Descrição
 ### Objetivos
 ● Realizar melhorias nos algoritmos quânticos desenvolvidos até o momento;
+
 ● Realizar novos testes em diferentes simuladores e computadores quânticos;
+
 ● Desenvolver novos casos de testes, explorando diferentes ativos e configurações de portfólios;
+
 ● Explorar novas configurações do VQE e QAOA.
 
 ## Tecnologias utilizadas
