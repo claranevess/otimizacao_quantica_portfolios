@@ -34,7 +34,7 @@ git clone https://github.com/claranevess/otimizacao_quantica_portfolios
 ```
 ### 2. Abra a pasta do projeto na sua IDE de preferência.
 ### 3. Abra um terminal integrado
-Clique com o botão direito na pasta *otimizacao_quantica_portfolios*
+Clique com o botão direito na pasta *otimizacao_quantica_portfolios* e depois clique em *Open in Integrated Terminal*
 ### 4. Instale as bibliotecas necessárias
 No terminal, execute o comando:
 ```bash
