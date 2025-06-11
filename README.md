@@ -27,20 +27,20 @@ O projeto de iniciação científica Estudo do uso de Computação Quântica par
 ● NumPy 2.2.6
 
 ## Como rodar
-### Clone o repositório
+### 1. Clone o repositório
 Abra seu terminal e execute o comando:
 ```bash
 git clone https://github.com/claranevess/otimizacao_quantica_portfolios
 ```
-### Abra a pasta do projeto na sua IDE de preferência.
-### Abra um terminal integrado
+### 2. Abra a pasta do projeto na sua IDE de preferência.
+### 3. Abra um terminal integrado
 Clique com o botão direito na pasta otimizacao_quantica_portfolios
-### Instale as bibliotecas necessárias
+### 4. Instale as bibliotecas necessárias
 No terminal, execute o comando:
 ```bash
 pip install -r requirements.txt
 ```
-### Rode seu notebook!
+### 5. Rode seu notebook!
 
 ## Estrutura do projeto
 
