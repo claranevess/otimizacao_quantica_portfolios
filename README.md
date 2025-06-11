@@ -12,7 +12,7 @@ O projeto de iniciação científica Estudo do uso de Computação Quântica par
 
 ● Explorar novas configurações do VQE e QAOA.
 
-## Tecnologias utilizadas
+## Principais tecnologias utilizadas
 
 ● Python 3.13.4
 
